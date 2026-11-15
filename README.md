@@ -1,24 +1,26 @@
+<p align="center"><img src="https://raw.githubusercontent.com/n1cheey/n1cheey/main/assets/code.svg" alt="n1cheey / Algorithm Lab / C++ practice" width="100%" /></p>
+
 <div align="center">
 
 # Algorithm Practice · Module 02
 
-**Сортировка, интервалы и работа с массивами**
+**Sorting, intervals and arrays**
 
-20 задач · LeetCode · План практики
+20 problems · LeetCode · Practice roadmap
 
-[Список задач](#список-задач) · [Первый модуль](https://github.com/n1cheey/Module1) · [Профиль](https://github.com/n1cheey)
+[Problem index](#problem-index) · [First module](https://github.com/n1cheey/Module1) · [Profile](https://github.com/n1cheey)
 
 </div>
 
 ---
 
-## О модуле
+## About this module
 
-Подборка задач для следующего этапа практики алгоритмов. Сейчас репозиторий содержит список условий; исходный код решений ещё не добавлен.
+A problem collection for the next stage of algorithm practice. This repository currently contains links to problem statements; solution source code has not been added yet.
 
-## Список задач
+## Problem index
 
-| № | Задача |
+| # | Problem |
 | :---: | :--- |
 | 01 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) |
 | 02 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) |
@@ -41,10 +43,10 @@
 | 19 | [Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/) |
 | 20 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) |
 
-## Как работать с подборкой
+## How to use this roadmap
 
-Откройте условие по ссылке, решите задачу и проверьте ответ в LeetCode. Готовые исходники первого модуля доступны в [Module1](https://github.com/n1cheey/Module1).
+Open a problem statement, work through the task and check your solution on LeetCode. Source code for the first module is available in [Module1](https://github.com/n1cheey/Module1).
 
 ---
 
-[← Module1 — решения на C++](https://github.com/n1cheey/Module1) · [Профиль автора](https://github.com/n1cheey)
+[← Module1 — C++ solutions](https://github.com/n1cheey/Module1) · [Author profile](https://github.com/n1cheey)
